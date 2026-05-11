@@ -6,14 +6,14 @@ import foto from "./assets/photo.png";
 const NAV_LINKS = ["About", "Skills", "Experience", "Projects", "Contact"];
 
 const SKILLS = [
-  { name: "HTML & CSS", level: 90, cat: "Frontend" },
-  { name: "JavaScript", level: 80, cat: "Frontend" },
-  { name: "React.js", level: 80, cat: "Frontend" },
-  { name: "Tailwind CSS", level: 75, cat: "Frontend" },
-  { name: "Flutter", level: 70, cat: "Mobile" },
-  { name: "Figma", level: 88, cat: "Design" },
-  { name: "UI/UX Design", level: 85, cat: "Design" },
-  { name: "PHP / Laravel", level: 70, cat: "Backend" },
+  { name: "HTML & CSS", level: 85, cat: "Frontend" },
+  { name: "JavaScript", level: 75, cat: "Frontend" },
+  { name: "React.js", level: 75, cat: "Frontend" },
+  { name: "Tailwind CSS", level: 70, cat: "Frontend" },
+  { name: "Flutter", level: 65, cat: "Mobile" },
+  { name: "Figma", level: 80, cat: "Design" },
+  { name: "UI/UX Design", level: 80, cat: "Design" },
+  { name: "PHP / Laravel", level: 65, cat: "Backend" },
   { name: "SQL", level: 65, cat: "Backend" },
   { name: "Git", level: 82, cat: "Tools" },
 ];
